@@ -1,0 +1,201 @@
+case_row_id,case_number,party_row_count,party_type,name_row_count,name,preprocessed_name,rule_based_named_entities,model_based_named_entities,class_prediction,Unnamed: 0,class
+29903,2:97-cv-01579-MJP,156430,Plaintiff,193470,Precor Inc,precor inc,"[('ORG', 'inc')]","[('PERSON', 'Precor Inc')]",organization,8,organization
+36804,2:07-cv-02101,198848,Counter Claimant,250874,Giant Food LLC,giant food llc,"[('ORG', 'llc')]","[('ORG', 'Giant Food LLC')]",organization,14,organization
+54158,3:07-cv-00823-MHP,301037,Counter-defendant,392961,"Cadence Design Systems, Inc.",cadence design systems inc,"[('ORG', 'inc')]","[('ORG', 'Cadence Design Systems, Inc.')]",organization,17,organization
+8915,1:01-cv-00129-LMM-THK,41853,Defendant,51829,Collezione Europa USA,collezione europa usa,[],"[('ORG', 'Collezione Europa USA')]",organization,32,organization
+73252,8:11-cv-01682-DOC,419029,Defendant,551117,Hewlett-Packard Company,hewlett-packard company,"[('ORG', 'company')]","[('ORG', 'Hewlett-Packard Company')]",organization,33,organization
+54706,3:08-cv-01314-WHA,304640,Defendant,397716,A.C.N. 120 786 012 PTY Ltd.,acn 120 786 012 pty ltd,"[('ORG', 'ltd')]","[('CARDINAL', '120'), ('ORG', 'PTY Ltd.')]",organization,70,organization
+7499,1:99-cv-00391-SSB-JS,34414,Counter Claimant,42685,doing business as,doing business as,[],[],unknown,93,unknown
+54270,3:07-cv-02264-GEB-DEA,301826,Counter Defendant,394093,MERCK SHARP & DOHME PHARMACEUTICALS SRL,merck sharp & dohme pharmaceuticals srl,[],"[('ORG', 'MERCK SHARP & DOHME PHARMACEUTICALS SRL')]",organization,109,organization
+64580,5:01-cv-01833-JG,361214,Plaintiff,470858,"Buyers Products Company, Inc.",buyers products company inc,"[('ORG', 'company')]","[('ORG', 'Buyers Products Company, Inc.')]",organization,149,organization
+54676,3:08-cv-00977-M,304389,Counter Claimant,397366,TERMINATED: 04/07/2009,terminated: 04072009,[],[],unknown,166,unknown
+69863,6:14-cv-00094-RWS,401841,Counter Defendant,526738,"EMG Technology, LLC",emg technology llc,"[('ORG', 'llc')]","[('ORG', 'EMG Technology')]",organization,179,organization
+66934,6:93-cv-00282-HWM,375463,Defendant,489509,"Texas Pressure Testers, L C",texas pressure testers l c,[],"[('ORG', 'Texas Pressure Testers')]",organization,184,organization
+36014,2:06-cv-03604-DRH-AKT,191796,Defendant,240918,"IDT, Inc.",idt inc,"[('ORG', 'inc')]","[('ORG', 'IDT, Inc.')]",organization,196,organization
+66160,5:12-cv-00570-FL,371695,Plaintiff,484792,Krausz Industries Ltd.,krausz industries ltd,"[('ORG', 'ltd')]","[('ORG', 'Krausz Industries Ltd.')]",organization,205,organization
+67016,6:95-cv-01574-RTH-MEM,375933,Counter Claimant,490094,Conrad Schatzle,conrad schatzle,[],"[('PERSON', 'Conrad Schatzle')]",individual,211,individual
+55951,3:11-cv-00638-JAH-KSC,313344,Defendant,409894,"Spectrum Laboratories, LLC",spectrum laboratories llc,"[('ORG', 'llc')]","[('ORG', 'Spectrum Laboratories')]",organization,229,organization
+27524,2:91-cv-01324-TTE,145153,Defendant,178674,RHH Foam Systems Inc,rhh foam systems inc,"[('ORG', 'inc')]","[('ORG', 'RHH Foam Systems Inc')]",organization,270,organization
+39064,2:10-cv-00587-JRG,219694,Counter Defendant,282468,GeoTag Inc,geotag inc,"[('ORG', 'inc')]","[('PERSON', 'GeoTag Inc')]",organization,298,organization
+55364,3:10-cv-00234-wmc,309300,Counter Defendant,404348,Involuntary Plaintiff,involuntary plaintiff,[],[],unknown,314,unknown
+36972,2:07-cv-04631-PD,200308,Defendant,253029,(A CORPORATION),a corporation,"[('ORG', 'corporation')]","[('ORG', 'CORPORATION')]",organization,318,organization
+39742,2:11-cv-00142-JRG,224296,Counter Claimant,289115,"Hotels.com, L.P.",hotelscom lp,"[('ORG', 'lp')]","[('GPE', 'Hotels.com')]",organization,321,organization
+23948,1:14-cv-00376,128623,Counter Claimant,159752,Riverbed Technology Inc.,riverbed technology inc,"[('ORG', 'inc')]","[('ORG', 'Riverbed Technology Inc.')]",organization,393,organization
+35785,2:06-cv-00781-GW-PLA,190588,Defendant,239243,Aquastar Pool Products Inc,aquastar pool products inc,"[('ORG', 'inc')]","[('ORG', 'Aquastar Pool Products Inc')]",organization,402,organization
+16789,1:10-cv-00631-RGA-MPT,89961,Counter Claimant,112466,"St. Jude Medical S.C., Inc.",st jude medical sc inc,"[('ORG', 'inc')]","[('ORG', 'St. Jude Medical S.C., Inc.')]",organization,414,organization
+8993,1:01-cv-00308-JJF,42357,Counter Defendant,52434,Conopco Inc.,conopco inc,"[('ORG', 'inc')]","[('ORG', 'Conopco Inc.')]",organization,461,organization
+34464,2:04-cv-02551-MMB,181624,Defendant,227192,CHRISTIANE'S TANNING SALON,christiane's tanning salon,[],"[('ORG', 'CHRISTIANE')]",organization,463,organization
+12169,1:04-cv-07007,59897,Counter Claimant,74280,"Par Pharmaceutical Companies, Inc.",par pharmaceutical companies inc,"[('ORG', 'inc')]","[('ORG', 'Par Pharmaceutical Companies, Inc.')]",organization,471,organization
+32284,2:01-cv-04000-FSH,169352,Defendant,210740,"CHEMINOR DRUGS, LTD.",cheminor drugs ltd,"[('ORG', 'ltd')]","[('ORG', 'CHEMINOR DRUGS, LTD')]",organization,490,organization
+4608,1:94-cv-01668-CMH,20517,Counter Defendant,25733,"Chemtron, Inc.",chemtron inc,"[('ORG', 'inc')]","[('GPE', 'Chemtron')]",organization,495,organization
+54146,3:07-cv-00710,300945,Third Party Defendant,392833,Third Party DefendantTERMINATED: 11/20/2008,third party defendantterminated: 11202008,[],"[('ORG', 'Third Party')]",organization,527,unknown
+45404,2:15-cv-00063-RWS,257418,Plaintiff,335364,"AlphaCap Ventures, LLC",alphacap ventures llc,"[('ORG', 'llc')]",[],organization,538,organization
+26338,1:15-cv-02350-RMB-JS,139925,Counter Defendant,172623,"GILEAD SCIENCES, INC.",gilead sciences inc,"[('ORG', 'inc')]","[('ORG', 'GILEAD SCIENCES'), ('ORG', 'INC')]",organization,555,organization
+40790,2:12-cv-00191-GMN-GWF,232558,Plaintiff,301009,"Nike, Inc.",nike inc,"[('ORG', 'inc')]","[('ORG', 'Nike, Inc.')]",organization,567,organization
+46227,2:15-cv-00781-JRG-RSP,261710,Defendant,341546,"Michaels Stores, Inc.",michaels stores inc,"[('ORG', 'inc')]","[('ORG', 'Michaels Stores, Inc.')]",organization,594,organization
+41558,2:12-cv-01935-RCJ-VPC,236779,Defendant,306405,"Watson Laboratories, Inc. - Florida",watson laboratories inc - florida,"[('ORG', 'inc')]","[('ORG', 'Watson Laboratories, Inc.'), ('GPE', 'Florida')]",organization,599,organization
+31142,2:99-cv-09521-ABC-JWJ,162791,Plaintiff,202026,Intrex Recreation Corp,intrex recreation corp,"[('ORG', 'corp')]","[('ORG', 'Intrex Recreation Corp')]",organization,605,organization
+66545,5:14-cv-03222-LHK,373865,Plaintiff,487658,"SoftVault Systems, Inc.",softvault systems inc,"[('ORG', 'inc')]","[('ORG', 'SoftVault Systems, Inc.')]",organization,642,organization
+62543,4:11-cv-02965-LB,350728,Plaintiff,457713,"Brighter Planet, Inc.",brighter planet inc,"[('ORG', 'inc')]","[('ORG', 'Brighter Planet, Inc.')]",organization,657,organization
+68479,6:11-cv-00556,393253,Defendant,514989,"ACN, Inc.",acn inc,"[('ORG', 'inc')]","[('ORG', 'ACN, Inc.')]",organization,670,organization
+31057,2:99-cv-04103-VAP-BQR,162395,Counter Defendant,201478,Hayes Products LLC,hayes products llc,"[('ORG', 'llc')]","[('ORG', 'Hayes Products LLC')]",organization,705,organization
+72602,8:05-cv-01740-SDM-TBM,414760,Plaintiff,544259,doing business as,doing business as,[],[],unknown,718,unknown
+48540,3:91-cv-01509-H-RCM,271731,Counter Claimant,354466,D J Smalley,d j smalley,[],[],unknown,721,unknown
+56846,3:12-cv-04222-MEJ,319095,Defendant,417433,"Pulse Shower Spas, Inc.",pulse shower spas inc,"[('ORG', 'inc')]","[('ORG', 'Pulse Shower Spas, Inc.')]",organization,787,organization
+10505,1:03-cv-00056-DAK,50650,Plaintiff,62669,"Chisco, Inc.",chisco inc,"[('ORG', 'inc')]","[('ORG', 'Chisco, Inc.')]",organization,798,organization
+37156,2:08-cv-00006,202653,Counter Defendant,256827,Credit Card Fraud Control Corporation,credit card fraud control corporation,"[('ORG', 'corporation')]","[('ORG', 'Credit Card Fraud Control Corporation')]",organization,803,organization
+136,0:94-cv-07127-KLR,625,Plaintiff,808,"Phonometrics, Inc.",phonometrics inc,"[('ORG', 'inc')]","[('ORG', 'Phonometrics, Inc.')]",organization,807,organization
+64415,5:00-cv-00098-RT-AJW,360032,Plaintiff,469227,H Joseph Engel,h joseph engel,[],"[('PERSON', 'H Joseph Engel')]",individual,869,individual
+24045,1:14-cv-00491-RGA,129070,Plaintiff,160240,Pi-Net International Inc.,pi-net international inc,"[('ORG', 'inc')]","[('ORG', 'Pi-Net International Inc.')]",organization,879,organization
+9328,1:01-cv-02275-JGP,44093,Counter Claimant,54618,TERMINATED: 01/29/2003,terminated: 01292003,[],[],unknown,889,unknown
+55661,3:10-cv-02364,311355,Plaintiff,407149,"A.D. Importers, Inc.",ad importers inc,"[('ORG', 'inc')]","[('ORG', 'A.D. Importers, Inc.')]",organization,929,organization
+67965,6:09-cv-00143,383982,Counter Claimant,500967,TERMINATED: 01/07/2010,terminated: 01072010,[],[],unknown,1003,unknown
+56505,3:12-cv-00731,317179,Counter Claimant,414910,"OpenTable, Inc.",opentable inc,"[('ORG', 'inc')]","[('ORG', 'OpenTable, Inc.')]",organization,1006,organization
+1718,0:14-cv-02856-MJD-FLN,8018,Defendant,10830,Boston Scientific Corporation,boston scientific corporation,"[('ORG', 'corporation')]","[('ORG', 'Boston Scientific Corporation')]",organization,1044,organization
+12931,1:05-cv-04616,64520,Counter Claimant,80022,Regal Entertainment Group,regal entertainment group,[],"[('ORG', 'Regal Entertainment Group')]",organization,1055,organization
+9356,1:01-cv-02510-GEL,44279,Defendant,54860,Kenmark Optical Inc.,kenmark optical inc,"[('ORG', 'inc')]","[('ORG', 'Kenmark Optical Inc.')]",organization,1056,organization
+8963,1:01-cv-00210-JTE,42142,Defendant,52190,Inc.,inc,"[('ORG', 'inc')]",[],organization,1114,organization
+40059,2:11-cv-00715-MJP,228467,Defendant,295475,Staples Inc,staples inc,"[('ORG', 'inc')]","[('ORG', 'Staples Inc')]",organization,1116,organization
+73027,8:10-cv-00290-JLS-RNB,417628,Counter Claimant,548912,an individual,an individual,[],[],unknown,1117,individual
+28722,2:94-cv-04376-EC,150496,Plaintiff,185624,"BURLE TECHNOLOGIES, INC.",burle technologies inc,"[('ORG', 'inc')]","[('ORG', 'INC')]",organization,1146,organization
+68814,6:12-cv-00374-RWS,395849,Counter Defendant,518657,"Parallel Networks, LLC",parallel networks llc,"[('ORG', 'llc')]",[],organization,1174,organization
+10229,1:02-cv-03747,49058,Defendant,60796,TERMINATED: 07/21/2004,terminated: 07212004,[],[],unknown,1178,unknown
+72641,8:06-cv-00566-DOC-AN,415035,Counter Claimant,544693,Inx,inx,[],[],unknown,1185,unknown
+11440,1:04-cv-00128,55803,Cross Claimant,69043,"MKS Instruments, Inc.",mks instruments inc,"[('ORG', 'inc')]","[('ORG', 'MKS Instruments, Inc.')]",organization,1210,organization
+20732,1:12-cv-05082-SHS,113964,Counter Claimant,142754,Sandoz Inc.,sandoz inc,"[('ORG', 'inc')]","[('ORG', 'Sandoz Inc.')]",organization,1226,organization
+25752,1:15-cv-00495-AJ,137180,Defendant,169520,also known as,also known as,[],[],unknown,1242,unknown
+69579,6:13-cv-00642-LED,400547,Consol Defendant,525071,Consolidated Civil Action 6:13cv650,consolidated civil action 6:13cv650,[],"[('CARDINAL', '6:13cv650')]",unknown,1255,unknown
+3732,1:92-cv-02551,16456,Defendant,20725,A New York Corporation,a new york corporation,"[('ORG', 'corporation')]","[('ORG', 'New York Corporation')]",organization,1261,organization
+35937,2:06-cv-02333-LOA,191421,Plaintiff,240395,a Delaware corporation,a delaware corporation,"[('ORG', 'corporation')]","[('GPE', 'Delaware')]",organization,1289,organization
+38771,2:10-cv-00253-DF,216631,Defendant,277001,TERMINATED: 01/03/2011,terminated: 01032011,[],"[('CARDINAL', '01/03/2011')]",unknown,1292,unknown
+40589,2:11-cv-13110,231565,Defendant,299765,Koninklijke Philips Electronics N.V.,koninklijke philips electronics nv,[],"[('ORG', 'Koninklijke Philips Electronics N.V.')]",organization,1320,organization
+60188,4:99-cv-00148-HLM,336406,Defendant,439160,"Euromac, Inc.",euromac inc,"[('ORG', 'inc')]","[('ORG', 'Euromac, Inc.')]",organization,1330,organization
+50522,3:98-cv-00738-R-JAH,281170,Counter Defendant,366310,"Bully's Surf Equipment, Incorporated",bully's surf equipment incorporated,"[('ORG', 'incorporated')]","[('ORG', ""Bully's Surf Equipment"")]",organization,1370,organization
+15527,1:08-cv-11620-GAO,80843,Defendant,100748,Lencore Acoustics Corp.,lencore acoustics corp,"[('ORG', 'corp')]","[('ORG', 'Lencore Acoustics Corp.')]",organization,1411,organization
+34126,2:04-cv-00294,179638,Defendant,224623,"Color Dreams, Inc. (d/b/a StarDot Technologies)",color dreams inc dba stardot technologies,"[('ORG', 'inc')]","[('ORG', 'Color Dreams,'), ('ORG', 'StarDot Technologies')]",organization,1417,organization
+44588,2:14-cv-00812-SGC,252795,Counter Defendant,328365,CTP Innovations LLC,ctp innovations llc,"[('ORG', 'llc')]",[],organization,1424,organization
+66992,6:95-cv-00067-CCL,375783,Defendant,489890,Andrew P. Bridwell,andrew p bridwell,[],"[('PERSON', 'Andrew P. Bridwell')]",individual,1429,individual
+32475,2:01-cv-71700-RHC-TAC,170453,Defendant,212297,"Audi of North America, Incorporated",audi of north america incorporated,"[('ORG', 'incorporated')]","[('ORG', 'Audi of North America')]",organization,1444,organization
+9912,1:02-cv-00731,47288,Plaintiff,58586,Robert Rodgers,robert rodgers,[],"[('PERSON', 'Robert Rodgers')]",individual,1487,individual
+38217,2:09-cv-01043-JLR,211773,Defendant,269929,Oregon State University,oregon state university,[],"[('ORG', 'Oregon State University')]",organization,1491,organization
+40924,2:12-cv-00316-RSL,233222,Defendant,301857,"Hewitt Machine & Manufacturing, Inc.",hewitt machine & manufacturing inc,"[('ORG', 'inc')]","[('ORG', 'Hewitt Machine & Manufacturing, Inc.')]",organization,1498,organization
+18795,1:11-cv-07455-JGK,104600,Defendant,131570,"York Wallcoverings, Inc.",york wallcoverings inc,"[('ORG', 'inc')]","[('ORG', 'York Wallcoverings, Inc.')]",organization,1502,organization
+17375,1:10-cv-06015-AKH,93518,Defendant,117057,Elegant Lighting,elegant lighting,[],[],unknown,1552,organization
+6777,1:98-cv-00209-ESH,30919,Defendant,38499,Assistant Secretary of Commerce and Commissioner of Patents and Trademarks,assistant secretary of commerce and commissioner of patents and trademarks,[],"[('ORG', 'Commerce')]",organization,1556,unknown
+16818,1:10-cv-00690-SLR-MPT,90282,Counter Claimant,112927,A.H. Belo Corporation,ah belo corporation,"[('ORG', 'corporation')]","[('ORG', 'A.H. Belo Corporation')]",organization,1563,organization
+66657,5:15-cv-00128-RWS,374181,Defendant,488021,Lenovo (United States) Inc.,lenovo united states inc,"[('ORG', 'inc')]","[('ORG', 'Lenovo'), ('GPE', 'United States')]",organization,1582,organization
+23789,1:14-cv-00220-TCB,127957,Counter Claimant,159006,The Coca-Cola Company,the coca-cola company,"[('ORG', 'company')]","[('ORG', 'The Coca-Cola Company')]",organization,1621,organization
+71954,8:00-cv-00882-AHS-AN,411265,Plaintiff,539129,a California corporation,a california corporation,"[('ORG', 'corporation')]","[('GPE', 'California')]",organization,1626,organization
+56063,3:11-cv-01371-BEN-MDD,314309,Counter Defendant,411225,"Sony Electronics, Inc.",sony electronics inc,"[('ORG', 'inc')]","[('ORG', 'Sony Electronics, Inc.')]",organization,1662,organization
+32123,2:01-cv-01552-DT-BQR,168462,Counter Defendant,209616,Nyko Technologies Inc,nyko technologies inc,"[('ORG', 'inc')]","[('ORG', 'Nyko Technologies Inc')]",organization,1674,organization
+42017,2:13-cv-00015,239379,Counter Defendant,309946,"Personal Audio, LLC",personal audio llc,"[('ORG', 'llc')]",[],organization,1703,organization
+29290,2:96-cv-00024-wks,153423,ENE Evaluator,189392,ENE Evaluator,ene evaluator,[],[],unknown,1744,organization
+68128,6:10-cv-00223,387104,Plaintiff,505546,"Brooks Instrument, LLC",brooks instrument llc,"[('ORG', 'llc')]","[('ORG', 'Brooks Instrument')]",organization,1746,organization
+12891,1:05-cv-03523,64144,Plaintiff,79563,"Sea-Watch Technologies, Inc.",sea-watch technologies inc,"[('ORG', 'inc')]","[('ORG', 'Sea-Watch Technologies, Inc.')]",organization,1747,organization
+52699,3:03-cv-05697-WHA,292714,Defendant,381608,"D&J Sports, Inc.",d&j sports inc,"[('ORG', 'inc')]","[('ORG', 'D&J Sports, Inc.')]",organization,1756,organization
+38363,2:09-cv-02983-KJM-KJN,212783,Defendant,271420,"Hydrowholesale, Inc.",hydrowholesale inc,"[('ORG', 'inc')]","[('ORG', 'Hydrowholesale, Inc.')]",organization,1815,organization
+8092,1:00-cv-00059-JJF,37228,Plaintiff,46149,Lasersight Incorporated,lasersight incorporated,"[('ORG', 'incorporated')]",[],organization,1822,organization
+37173,2:08-cv-00026-DF,202869,Counter Claimant,257196,"Creative Labs, Inc.,",creative labs inc,"[('ORG', 'inc')]","[('ORG', 'Creative Labs, Inc.')]",organization,1878,organization
+64883,5:03-cv-04109-JF,363007,Defendant,473239,"Einux Systems, L.L.C.",einux systems llc,"[('ORG', 'llc')]",[],organization,1952,organization
+55804,3:11-cv-00056,312432,Defendant,408627,Roche Molecular Systems,roche molecular systems,[],"[('ORG', 'Roche Molecular Systems')]",organization,1978,organization
+68357,6:11-cv-00111-ACC-GJK,390629,Counter Claimant,510906,"Silicon Mountain Holdings, Inc.",silicon mountain holdings inc,"[('ORG', 'holdings')]","[('ORG', 'Silicon Mountain Holdings, Inc.')]",organization,1987,organization
+35546,2:06-cv-00105-RC,188537,Defendant,236490,doing business as,doing business as,[],[],unknown,1988,unknown
+2472,1:89-cv-00241-SD,10865,Plaintiff,14128,"Charleswater Products, Inc.",charleswater products inc,"[('ORG', 'inc')]","[('ORG', 'Charleswater Products, Inc.')]",organization,1992,organization
+71128,7:05-cv-07830-CLB,407084,Plaintiff,533159,Furnace Brook LLC,furnace brook llc,"[('ORG', 'llc')]",[],organization,2020,organization
+38366,2:09-cv-03037-DMG-VBK,212796,Defendant,271440,doing business as,doing business as,[],[],unknown,2114,unknown
+39885,2:11-cv-00341-JAT,226189,Defendant,292037,Randy Nussbaum,randy nussbaum,[],"[('PERSON', 'Randy Nussbaum')]",individual,2117,individual
+68451,6:11-cv-00480,392734,Consol Defendant,514059,Consolidated Civil Action 6:11cv568SEVERED AND CONSOLIDATED LEAD TERMINATED: 02/15/2013,consolidated civil action 6:11cv568severed and consolidated lead terminated: 02152013,[],"[('CARDINAL', '02/15/2013')]",unknown,2119,unknown
+36619,2:07-cv-00533-CE,197573,Counter Defendant,249065,"Dogleg Right Partners, LP",dogleg right partners lp,"[('ORG', 'lp')]",[],organization,2131,organization
+31926,2:01-cv-00332-LGB-JWJ,167502,Defendant,208377,an Illinois corporation,an illinois corporation,"[('ORG', 'corporation')]","[('GPE', 'Illinois')]",organization,2157,organization
+43744,2:14-cv-00015-JRG,248920,Consol Plaintiff,322983,"Rembrandt Secure Computing, LP",rembrandt secure computing lp,"[('ORG', 'lp')]",[],organization,2212,organization
+5906,1:96-cv-06904,26660,Plaintiff,33216,"Hartco Company, Inc.",hartco company inc,"[('ORG', 'company')]","[('ORG', 'Hartco Company, Inc.')]",organization,2230,organization
+23462,1:13-cv-20918-DMM,126398,Counter Defendant,157189,ArrivalStar S.A.,arrivalstar sa,"[('ORG', 'sa')]","[('ORG', 'ArrivalStar S.A.')]",organization,2233,organization
+58283,3:15-cv-00049-GEC,326457,Counter Defendant,426998,Focusrite Audio Engineering Limited,focusrite audio engineering limited,"[('ORG', 'limited')]","[('ORG', 'Focusrite Audio Engineering Limited')]",organization,2292,organization
+53249,3:05-cv-00521-LRH-RAM,295564,Defendant,385488,"Calnetix Holding Company I, LLC",calnetix holding company i llc,"[('ORG', 'company')]","[('ORG', 'Calnetix Holding Company I')]",organization,2295,organization
+52304,3:03-cv-00029-CRS-JDM,290488,Plaintiff,378622,"Sud-Chemie, Inc.",sud-chemie inc,"[('ORG', 'inc')]","[('ORG', 'Sud-Chemie, Inc.')]",organization,2299,organization
+37045,2:07-cv-06161,201042,Counter Claimant,254116,Lime Wire LLC,lime wire llc,"[('ORG', 'llc')]",[],organization,2329,organization
+7104,1:98-cv-02368,32441,Counter Claimant,40348,Streater Inc,streater inc,"[('ORG', 'inc')]","[('PERSON', 'Streater Inc')]",organization,2334,organization
+17285,1:10-cv-04076,92995,Plaintiff,116426,"Waters Industries, Inc.",waters industries inc,"[('ORG', 'inc')]","[('ORG', 'Waters Industries, Inc.')]",organization,2341,organization
+68607,6:12-cv-00010,394242,Defendant,516428,903-736-3432,903-736-3432,[],"[('CARDINAL', '903')]",unknown,2351,unknown
+45983,2:15-cv-00576-RWS-RSP,260488,Consol Claimant,339804,Consolidated Civil Action 2:15cv580,consolidated civil action 2:15cv580,[],"[('CARDINAL', '2:15cv580')]",unknown,2358,unknown
+41212,2:12-cv-00604-JRG-RSP,234777,Counter Defendant,303769,Capital Security Systems Inc,capital security systems inc,"[('ORG', 'inc')]","[('ORG', 'Capital Security Systems Inc')]",organization,2359,organization
+56385,3:12-cv-00194-BEN-BGS,316538,Plaintiff,414124,a Delaware corporation,a delaware corporation,"[('ORG', 'corporation')]","[('GPE', 'Delaware')]",organization,2383,organization
+23340,1:13-cv-10759-RGS,125874,Counter Defendant,156585,University of Chicago Medical Center,university of chicago medical center,[],"[('ORG', 'University of Chicago Medical Center')]",organization,2392,organization
+25562,1:15-cv-00179-GMS,136219,Defendant,168427,Breckenridge Pharmaceutical Inc.,breckenridge pharmaceutical inc,"[('ORG', 'inc')]","[('ORG', 'Breckenridge Pharmaceutical Inc.')]",organization,2424,organization
+7106,1:98-cv-02424-RMB-NRB,32460,Plaintiff,40371,"Aspex Eyewear, Inc.",aspex eyewear inc,"[('ORG', 'inc')]","[('ORG', 'Aspex Eyewear, Inc.')]",organization,2425,organization
+52160,3:02-cv-02052-P,289457,Defendant,377271,Shindaiwa Inc,shindaiwa inc,"[('ORG', 'inc')]","[('ORG', 'Shindaiwa Inc')]",organization,2452,organization
+63826,5:94-cv-00991,356987,Defendant,465344,Simmons-Rand Company,simmons-rand company,"[('ORG', 'company')]","[('ORG', 'Simmons-Rand Company')]",organization,2453,organization
+36632,2:07-cv-00565-JRG,197760,Defendant,249349,"TPV Tech., Ltd.",tpv tech ltd,"[('ORG', 'ltd')]","[('ORG', 'TPV Tech., Ltd.')]",organization,2456,organization
+39866,2:11-cv-00317,226034,Defendant,291827,Safe Home Products,safe home products,[],[],unknown,2464,organization
+1574,0:12-cv-02338-MBS,7298,Plaintiff,9862,Nels Theodore Wohlstrom,nels theodore wohlstrom,[],"[('PERSON', 'Nels Theodore Wohlstrom')]",individual,2473,individual
+29127,2:95-cv-03331-RAP-BQR,152659,Counter Defendant,188403,Corporate Does 1-10,corporate does 1-10,[],"[('CARDINAL', '1-10')]",unknown,2499,unknown
+35623,2:06-cv-00284,189112,Counter Claimant,237274,Kraft Foods Inc.,kraft foods inc,"[('ORG', 'inc')]","[('ORG', 'Kraft Foods Inc.')]",organization,2515,organization
+27678,2:91-cv-07122-EC,145819,Defendant,179548,an individual,an individual,[],[],unknown,2540,individual
+36794,2:07-cv-02050-MPM-DGB,198731,Defendant,250694,TERMINATED: 03/18/2009,terminated: 03182009,[],[],unknown,2553,unknown
+42676,2:13-cv-00640-RJS,243245,Amicus,315214,Association for Molecular Pathology,association for molecular pathology,[],"[('ORG', 'Association for Molecular Pathology')]",organization,2578,organization
+67435,6:04-cv-00399-LED,378434,Intervenor Plaintiff,493440,TERMINATED: 01/13/2006,terminated: 01132006,[],"[('CARDINAL', '01/13/2006')]",unknown,2584,unknown
+68929,6:12-cv-00578-RWS,397091,Counter Defendant,520680,Commonwealth Scientific and Industrial Research Organisation,commonwealth scientific and industrial research organisation,[],"[('ORG', 'Commonwealth Scientific and Industrial Research Organisation')]",organization,2610,organization
+44540,2:14-cv-00762-RWS,252522,Consol Defendant,327968,Lenovo (United States) Inc.,lenovo united states inc,"[('ORG', 'inc')]","[('ORG', 'Lenovo'), ('GPE', 'United States')]",organization,2647,organization
+63565,5:91-cv-05155-HFW,355665,Counter Claimant,463661,Greg Copeland,greg copeland,[],"[('PERSON', 'Greg Copeland')]",individual,2793,individual
+17085,1:10-cv-01441,92005,Intervenor,115044,The United States of America,the united states of america,[],"[('GPE', 'The United States of America')]",organization,2858,organization
+68391,6:11-cv-00250-RWS,391410,Counter Defendant,512104,INTERNET MACHINES LLC,internet machines llc,"[('ORG', 'llc')]",[],organization,2862,organization
+74206,9:99-cv-08593-LDW-WDW,423584,Counter Defendant,557593,Solar Physics Corporation,solar physics corporation,"[('ORG', 'corporation')]","[('ORG', 'Solar Physics Corporation')]",organization,2866,organization
+68555,6:11-cv-00694,393873,Mediator,515924,James Knowles,james knowles,[],"[('PERSON', 'James Knowles')]",individual,2903,individual
+13433,1:06-cv-00683-NRB,67481,Counter Claimant,83887,Nobel Biocare AB,nobel biocare ab,[],"[('ORG', 'Nobel Biocare AB')]",organization,2979,organization
+16618,1:10-cv-00269-SLR,88610,Counter Defendant,110706,LEO Pharma A/S,leo pharma as,[],[],unknown,2989,organization
+32960,2:02-cv-03772,172987,Counter Claimant,215814,a Delaware corporation,a delaware corporation,"[('ORG', 'corporation')]","[('GPE', 'Delaware')]",organization,3007,organization
+37303,2:08-cv-00235-TJW-CE,204142,Defendant,258937,Walter Smith,walter smith,[],"[('PERSON', 'Walter Smith')]",individual,3022,individual
+8465,1:00-cv-01913-ZLW,39212,Counter Defendant,48606,Jane E. Ozga,jane e ozga,[],"[('PERSON', 'Jane E. Ozga')]",individual,3047,individual
+62212,4:10-cv-00003,348578,Counter Claimant,454906,Costco Wholesale Corporation,costco wholesale corporation,"[('ORG', 'corporation')]","[('ORG', 'Costco Wholesale Corporation')]",organization,3053,organization
+41895,2:12-cv-09229,238747,Defendant,309119,Engineered Sports Technology LLC,engineered sports technology llc,"[('ORG', 'llc')]",[],organization,3058,organization
+8937,1:01-cv-00155-SLR,41998,Plaintiff,52008,Proxim Incorporated,proxim incorporated,"[('ORG', 'incorporated')]",[],organization,3078,organization
+24366,1:14-cv-00853-GMS,130425,Plaintiff,161766,iBiquity Digital Corporation,ibiquity digital corporation,"[('ORG', 'corporation')]","[('ORG', 'iBiquity Digital Corporation')]",organization,3143,organization
+2888,1:90-cv-01454-CRR,12520,Plaintiff,16059,QUANTUM CORPORATION,quantum corporation,"[('ORG', 'corporation')]","[('ORG', 'QUANTUM')]",organization,3148,organization
+51661,3:01-cv-00793-J-CGA,287155,Defendant,374153,TERMINATED: 11/07/2001,terminated: 11072001,[],[],unknown,3194,unknown
+16073,1:09-cv-01521,84874,Counter Defendant,105947,TERMINATED: 06/13/2012,terminated: 06132012,[],[],unknown,3198,unknown
+57185,3:13-cv-00716-TAV-HBG,320875,Plaintiff,419740,Radio Systems Corporation,radio systems corporation,"[('ORG', 'corporation')]","[('ORG', 'Radio Systems Corporation')]",organization,3224,organization
+55543,3:10-cv-00965-EMC,310434,Defendant,405892,Sinotime Technologies Inc,sinotime technologies inc,"[('ORG', 'inc')]","[('ORG', 'Sinotime Technologies Inc')]",organization,3238,organization
+43687,2:13-cv-11499-VAR-EAS,248599,Plaintiff,322587,Beacon Navigation GmbH,beacon navigation gmbh,"[('ORG', 'gmbh')]","[('PERSON', 'Beacon Navigation GmbH')]",organization,3240,organization
+62572,4:11-cv-04511,350926,Counter Claimant,457992,"Woodbolt Distribution, LLC",woodbolt distribution llc,"[('ORG', 'llc')]","[('PERSON', 'Woodbolt Distribution')]",organization,3248,organization
+21179,1:13-cv-00066-RJJ,116263,plaintiff,145647,a Michigan corporation,a michigan corporation,"[('ORG', 'corporation')]","[('GPE', 'Michigan')]",organization,3249,organization
+37847,2:08-cv-10323-PDB-VMM,208348,Counter Claimant,264930,"Cardinal Glass Industries, Incorporated",cardinal glass industries incorporated,"[('ORG', 'incorporated')]","[('ORG', 'Cardinal Glass Industries')]",organization,3265,organization
+25182,2:14-cv-07080-LTS-SN,134430,Plaintiff,166268,Ge Healthcare Bio-Sciences AB,ge healthcare bio-sciences ab,[],"[('ORG', 'Ge Healthcare Bio-Sciences AB')]",organization,3301,organization
+37590,2:08-cv-01657-GHK-AJW,206794,Counter Claimant,262712,"Pulte Homes, Inc.",pulte homes inc,"[('ORG', 'inc')]","[('ORG', 'Pulte Homes, Inc.')]",organization,3318,organization
+16425,1:09-cv-11414,87119,Plaintiff,108750,"Nuance Communications, Inc.",nuance communications inc,"[('ORG', 'inc')]","[('ORG', 'Nuance Communications, Inc.')]",organization,3321,organization
+56009,CIVIL DOCKET FOR CASE # 3:11-cv-00925-BR,313889,Counter Defendant,410611,Drew Hoffman,drew hoffman,[],[],unknown,3322,individual
+33399,2:03-cv-00883-DGC,175561,Defendant,219149,an Arizona corporation,an arizona corporation,"[('ORG', 'corporation')]","[('GPE', 'Arizona')]",organization,3331,organization
+64768,5:02-cv-05772,362242,Counter-claimant,472240,InfineonTechnologies AG,infineontechnologies ag,[],"[('ORG', 'InfineonTechnologies AG')]",organization,3379,organization
+37431,2:08-cv-00501-MAT,205900,Plaintiff,261397,Progressive International Corporation,progressive international corporation,"[('ORG', 'corporation')]","[('ORG', 'Progressive International Corporation')]",organization,3393,organization
+5468,1:96-cv-00245,24716,Plaintiff,30836,a Delaware corporation,a delaware corporation,"[('ORG', 'corporation')]","[('GPE', 'Delaware')]",organization,3409,organization
+48796,3:92-cv-04145-MLC,272887,ThirdParty Defendant,355832,VENTLAB CORPORATION,ventlab corporation,"[('ORG', 'corporation')]",[],organization,3414,organization
+53236,3:05-cv-00495,295466,Counter Claimant,385320,Cingular Wireless LLC,cingular wireless llc,"[('ORG', 'llc')]",[],organization,3470,organization
+31336,2:00-cv-00407-FSH,163992,Defendant,203620,"ZENITH GOLDLINE PHARMACEUTICALS, INC.",zenith goldline pharmaceuticals inc,"[('ORG', 'inc')]","[('ORG', 'ZENITH GOLDLINE PHARMACEUTICALS,'), ('ORG', 'INC')]",organization,3482,organization
+23833,1:14-cv-00246-LPS,128103,Plaintiff,159181,Execware LLC,execware llc,"[('ORG', 'llc')]",[],organization,3484,organization
+23011,1:13-cv-02778,124256,Defendant,154742,"Zoje Kitchen & Bath Co., Ltd.",zoje kitchen & bath co ltd,"[('ORG', 'ltd')]","[('ORG', 'Zoje Kitchen & Bath Co., Ltd.')]",organization,3491,organization
+46400,2:15-cv-00950-JRG,262541,Consol Defendant,342777,TERMINATED: 09/24/2015,terminated: 09242015,[],[],unknown,3497,unknown
+65913,5:11-cv-00016-DF-CMC,370400,Defendant,483173,"Carrier Commercial Refrigeration, Inc.",carrier commercial refrigeration inc,"[('ORG', 'inc')]","[('PERSON', 'Carrier Commercial Refrigeration, Inc.')]",organization,3518,organization
+67228,6:00-cv-00600-PCF,377258,Counter Defendant,491842,Jordan Spencer Jacobs,jordan spencer jacobs,[],"[('PERSON', 'Jordan Spencer')]",individual,3536,individual
+73115,8:10-cv-02406-VMC-MAP,418235,Defendant,549864,Dish Network Corporation,dish network corporation,"[('ORG', 'corporation')]","[('ORG', 'Dish Network Corporation')]",organization,3539,organization
+16462,1:10-cv-00004-LPS,87457,Counter Claimant,109162,TERMINATED: 02/21/2013,terminated: 02212013,[],[],unknown,3544,unknown
+58460,3:15-cv-00640-MHL,327143,Defendant,427854,Lenovo Group Limited,lenovo group limited,"[('ORG', 'limited')]","[('ORG', 'Lenovo Group Limited')]",organization,3549,organization
+32582,2:02-cv-00255-HCM-JEB,171180,Counter Claimant,213377,"Burroughs Sprayer Mfg., Inc.",burroughs sprayer mfg inc,"[('ORG', 'inc')]","[('PERSON', 'Burroughs Sprayer Mfg.,')]",organization,3551,organization
+65595,5:09-cv-00476-OLG,368598,Counter Plaintiff,480872,doing business as,doing business as,[],[],unknown,3572,unknown
+30522,2:98-cv-04124-SOW,159527,Plaintiff,197565,Baykal & Company,baykal & company,"[('ORG', 'company')]","[('ORG', 'Baykal & Company')]",organization,3590,organization
+52235,3:02-cv-04429-JCS,290020,Plaintiff,378037,a California Corporation,a california corporation,"[('ORG', 'corporation')]","[('ORG', 'California Corporation')]",organization,3596,organization
+38763,2:10-cv-00246-TJW,216517,Defendant,276812,Abbott Laboratories Inc,abbott laboratories inc,"[('ORG', 'inc')]","[('ORG', 'Abbott Laboratories Inc')]",organization,3654,organization
+24065,1:14-cv-00508-LPS,129155,Counter Defendant,160335,Merz Pharma GmbH & Co. KGaA,merz pharma gmbh & co kgaa,"[('ORG', 'gmbh')]","[('ORG', 'Merz Pharma GmbH &')]",organization,3656,organization
+3948,1:93-cv-00087-RJA,17449,Defendant,21901,William C. Larsen,william c larsen,[],"[('PERSON', 'William C. Larsen')]",individual,3720,individual
+68175,6:10-cv-00379,388131,Defendant,507091,Radioshack Corporation,radioshack corporation,"[('ORG', 'corporation')]",[],organization,3749,organization
+45686,2:15-cv-00298-JRG-RSP,258832,Defendant,337299,Kodiak Oil & Gas Corp.,kodiak oil & gas corp,"[('ORG', 'corp')]","[('ORG', 'Kodiak Oil & Gas Corp.')]",organization,3782,organization
+62347,4:10-cv-02243-SNLJ,349359,Counter Defendant,455986,"Square, Inc.",square inc,"[('ORG', 'inc')]","[('ORG', 'Square, Inc.')]",organization,3836,organization
+29568,2:96-cv-04325-SVW-SH,154947,Plaintiff,191438,a Delaware corporation,a delaware corporation,"[('ORG', 'corporation')]","[('GPE', 'Delaware')]",organization,3837,organization
+28072,2:92-cv-70849-ADT,147470,Counter Claimant,181676,Charles R. Rogers,charles r rogers,[],"[('PERSON', 'Charles R. Rogers')]",individual,3858,individual
+38076,2:09-cv-00343,210681,Counter Claimant,268335,TERMINATED: 07/15/2010,terminated: 07152010,[],[],unknown,3865,unknown
+17705,1:11-cv-00176-LPS,95844,Counter Claimant,119870,TERMINATED: 07/26/2011,terminated: 07262011,[],[],unknown,3867,unknown
+56684,3:12-cv-01653-DMS-WVG,318114,Counter Claimant,416156,"Hotwire, Inc.",hotwire inc,"[('ORG', 'inc')]","[('ORG', 'Hotwire, Inc.')]",organization,3887,organization
+37319,2:08-cv-00260,204367,Defendant,259192,"Boston Scientific Scimed, Inc.",boston scientific scimed inc,"[('ORG', 'inc')]","[('ORG', 'Boston Scientific Scimed, Inc.')]",organization,3894,organization
+53278,3:05-cv-00648-B-WMC,295680,Counter Defendant,385665,"Dye Precision, Inc.",dye precision inc,"[('ORG', 'inc')]","[('ORG', 'Dye Precision, Inc.')]",organization,3918,organization
+38014,2:09-cv-00228-WJM-MF,209893,Plaintiff,267235,TERMINATED: 06/02/2009,terminated: 06022009,[],[],unknown,3925,unknown
+34000,2:04-cv-00032-DF,178866,Defendant,223627,FSP Group,fsp group,[],"[('ORG', 'FSP Group')]",organization,3930,organization
+36830,2:07-cv-02307-JHN-PLA,199386,Intervenor Defendant,251732,Sanofi-Aventis US LLC,sanofi-aventis us llc,"[('ORG', 'llc')]","[('DATE', 'Sanofi-Aventis'), ('GPE', 'US')]",organization,3936,organization
+36541,2:07-cv-00416-JDL,196453,Counter Claimant,247593,Hypercom Corporation,hypercom corporation,"[('ORG', 'corporation')]","[('ORG', 'Hypercom Corporation')]",organization,3952,organization
